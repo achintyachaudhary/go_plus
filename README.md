@@ -1,2 +1,2 @@
-# go_plus
+# go +
 Calculator in golang
