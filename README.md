@@ -1,2 +1,2 @@
 # go +
-Calculator in golang
+calculator_in_golang
