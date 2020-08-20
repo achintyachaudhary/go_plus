@@ -1,1 +1,1 @@
-web: bin/go_plus
+web: go_plus
